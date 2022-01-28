@@ -62,11 +62,6 @@
       "value": "Lunatic0de",
       "required": false
     },
-    "CHANNEL2":{
-      "description": "Masukan Username Channel anda untuk Wajib Subscribenya [ Jangan pake @ ]",
-      "value": "anonymoushomee",
-      "required":false
-    },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
       "value": "anonymoushomee",
